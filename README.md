@@ -31,8 +31,8 @@ The average is over all insertion locations and configurations of the system (di
 Initialization.py contains the function that calculates Partition function $Z$ which is related to insertion free energy as follows: 
 
 $$
-F = -k_\text{B}T\ln Z
+F = -k_\text{B}T \ln Z
 $$
 
-Data should be structured as in four colums: first colum contains radii of liquid particles and other three colums are x, y, z coordinates of liquid particles. There should be no extra lines in between configurations for different time steps.
+The dataset should consist of four columns: first is radii of liquid particles, and three other columns are x y and z coordinates of liquid particles (for example from MD simulations). Radii and coordinates from different time stems should not be separated by any extra lines
 
