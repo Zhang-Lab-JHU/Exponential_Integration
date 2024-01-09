@@ -2,11 +2,11 @@
 
 ## Overview
 
-Exponential integration is a computational technique used to estimate the free energy difference between two states. It is particularly useful in the study of phase transitions and interactions within complex fluids. 
+Exponential integration is a computational technique used to estimate the free energy difference between two states. It is particularly useful in void analysis. 
 
 ## Application
 
-This code was developed and utilized in the research article titled "Conformational entropy of intrinsically disordered proteins bars intruders from biomolecular condensates." The primary focus of the study is to explore the free energy barriers that proteins encounter when penetrating biomolecular condensates. 
+This code was utilized in the research article titled "Conformational entropy of intrinsically disordered proteins bars intruders from biomolecular condensates." The primary focus of the study is to explore the free energy barriers that proteins encounter when penetrating biomolecular condensates. 
 
 The method compares two distinct states:
 1. **Unperturbed Liquid State**: The baseline state of the unperturbed liquid.
